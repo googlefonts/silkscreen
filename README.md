@@ -24,12 +24,13 @@ Jason Kottke is a famous blogger who runs [kottke.org](https://kottke.org), one 
 
 ## Building
 
-Currently the fonts are provided by Jason Kottke without sources.
+Currently the fonts don't have buildable sources.
+
 
 ## Changelog
 
 **6 May 2022. Version 1.1 (2001)**
-- Initial import to github from [kottke.org/plus/type/silkscreen](https://kottke.org/plus/type/silkscreen)
+- Initial import to github from [kottke.org/plus/type/silkscreen](https://kottke.org/plus/type/silkscreen) plus source files provided via email
 
 ## License
 
