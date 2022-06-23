@@ -1,1 +1,4 @@
-familyName: Silkscreen
+    sources:
+      - Silkscreen.glyphs
+    familyName: "Silkscreen"
+    buildVariable: false
