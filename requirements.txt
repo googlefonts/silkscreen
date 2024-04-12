@@ -47,7 +47,7 @@ glyphsets==0.5.0
 glyphsLib==6.0.5
 glyphtools==0.8.0
 hyperglot==0.3.8
-idna==3.3
+idna==3.7
 Jinja2==3.1.2
 lxml==4.9.1
 MarkupSafe==2.1.1
